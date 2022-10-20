@@ -7,7 +7,7 @@ from setuptools import setup, find_packages
 # Package meta-data.
 NAME = 'JEMGL'
 DESCRIPTION = 'ADMM Algorithm for Joint Network Topology Inference problem.'
-URL = 'https://github.com/yanli4360/JEMGL'
+URL = 'https://github.com/yanli4360/JEMGL-master'
 AUTHOR = 'Yanli Yuan'
 REQUIRES_PYTHON = '>=3.7.0'
 VERSION = JEMGL.__version__

@@ -18,7 +18,7 @@ The package is available on pip and can be installed with
 
 Alternatively, you can install the package from source using the following commands:
 
-    git clone https://github.com/yanli4360/JEMGL.git
+    git clone https://github.com/yanli4360/JEMGL-master.git
     pip install -r requirements.txt
     python setup.py
 
